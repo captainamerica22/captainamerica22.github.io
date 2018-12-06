@@ -22,11 +22,11 @@ body {
     justify-content: space-between;
     flex-wrap: wrap;
     padding: 15px;
-    background-color: #e0e0e8;
+    background-color: #99ffff;
 }
 
 .header h1 {
-    font-size: 50px;
+    font-size: 80px;
     line-height: 10px;
     color:#ff0066;
 }
